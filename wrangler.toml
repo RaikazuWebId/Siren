@@ -1,4 +1,4 @@
-name = "siren"
+name = "cf-worker"
 main = "build/worker/shim.mjs"
 compatibility_date = "2025-11-12"
 minify = true
